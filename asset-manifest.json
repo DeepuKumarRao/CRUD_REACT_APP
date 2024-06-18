@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/crud-reactapp/static/css/main.4b699e6f.css",
-    "main.js": "/crud-reactapp/static/js/main.26336f8a.js",
-    "static/js/453.ed3810f9.chunk.js": "/crud-reactapp/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/crud-reactapp/index.html",
-    "main.4b699e6f.css.map": "/crud-reactapp/static/css/main.4b699e6f.css.map",
-    "main.26336f8a.js.map": "/crud-reactapp/static/js/main.26336f8a.js.map",
-    "453.ed3810f9.chunk.js.map": "/crud-reactapp/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/CRUD_REACT_APP/static/css/main.4b699e6f.css",
+    "main.js": "/CRUD_REACT_APP/static/js/main.ca4cc653.js",
+    "static/js/453.ed3810f9.chunk.js": "/CRUD_REACT_APP/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/CRUD_REACT_APP/index.html",
+    "main.4b699e6f.css.map": "/CRUD_REACT_APP/static/css/main.4b699e6f.css.map",
+    "main.ca4cc653.js.map": "/CRUD_REACT_APP/static/js/main.ca4cc653.js.map",
+    "453.ed3810f9.chunk.js.map": "/CRUD_REACT_APP/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b699e6f.css",
-    "static/js/main.26336f8a.js"
+    "static/js/main.ca4cc653.js"
   ]
 }
